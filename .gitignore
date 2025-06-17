@@ -1,0 +1,11 @@
+.DS_Store
+venv
+chats
+chats_por_usuario
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log

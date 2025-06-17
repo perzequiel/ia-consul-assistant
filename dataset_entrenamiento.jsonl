@@ -1,0 +1,246 @@
+{"input": "Hola buenas dias <Se editó este mensaje.>", "output": "BUEN DIA. EN QUE PODEMOS AYUDARLE"}
+{"input": "Consulta hacen ecografias M ?*", "output": "BUENOS DIAS. LAS REALIZAMOS CON TURNO LOS DIAS MIERCOLES POR LA TARDE O VIERNES POR LA MAÑANA"}
+{"input": "‎IMG-20250617-WA0007.jpg (archivo adjunto) Que precio", "output": "BUEN DIA. $ 25.000 ABONANDO EN EFECTIVO O $ 27.000 SI PAGA POR TRANSFERENCIA"}
+{"input": "Hola buenas Es la segunda vez que cancelan los aptos Es seguro lo del 14 ?", "output": "si , disculpe . Es seguro el dia 14 de marzo"}
+{"input": "Hola buen día.  Esta confirmado que se hace el apto físico el viernes ?", "output": "Hola buenos diias"}
+{"input": "Confirmo", "output": "Muchas Gracias. Que tenga lindo dia"}
+{"input": "Buen dia Quería turno para cardiologia infantil", "output": "Hola buenos dias"}
+{"input": "Único turno ? U otro día?", "output": "BUENAS TARDES, EL DOCTOR VIENE CADA 15 DIAS. POR EL MOEMNTO ES LO UNICO QUE LE PODEMOS OFRECER"}
+{"input": "Hola buenas tardes necesito control para mi hijo por favor turno y dia", "output": "Hola buenos dias"}
+{"input": "Si bien años 4 Está ?", "output": "Le podemos ofrecer para el martes 27/5 por la tarde"}
+{"input": "Ha bueno si bien", "output": "Le pido nombre y apellido por favor"}
+{"input": "null Ezequiel Leonhartt", "output": "Perfecto quedo agendado para *Pediatria* el dia martes 27/5 a las *16:00*"}
+{"input": "Si mañana voy bien Hola hoy voy bien 3:10", "output": "Hola buenas tardes."}
+{"input": "Si no cvu ?", "output": "Si en el mensaje tiene el alias y el cbu."}
+{"input": "‎IMG-20250527-WA0027.jpg (archivo adjunto)", "output": "Perfecto muchas gracias"}
+{"input": "Hola buen día! Quería consultar precio de ecografia ‎IMG-20250411-WA0000.jpg (archivo adjunto)", "output": "BUENOS DIAS. EL SCAN FETAL TIENE UN VALOR DE $ 30.000 ABONANDO EN EFECTIVO O $ 32.000 SI PAGA POR TRANSFERENCIA"}
+{"input": "Buenas tardes, quería consultar si las eco dan en la hoja de fotos, o en papel", "output": "Hola buenas tardes"}
+{"input": "Buen día Quería consultar precio de ecografía ‎IMG-20250617-WA0006.jpg (archivo adjunto)", "output": "BUENOS DIAS. EL VALOR ES DE $ 25.000 ABONANDO EN EFECTIVO O $ 27.000 SI PÑAGA POR TRANSFERENCIA."}
+{"input": "Dale, te reservo un turno para mañana En que horario tendría?", "output": "MAÑANA A LAS 17 HS. SI TOMA EL TURNO LE PIDO POR FAVOR EL NOMBRE, APELLIDO Y LA EDAD DEL PACIENTE"}
+{"input": "Valeria Agustina Arriola 19 años.", "output": "Perfecto ya esta agendada para el dia de mañana a las 17:30 hs con ecografia"}
+{"input": "Hola buen dia Quería saber si tienen endroquinologa?", "output": "BUENOS DIAS. TENEMOS ENDOCRINOLOGA. ESTAMOS DANDO TURNOS PARA JUEVES 10/4 POR LA TARDE. EL VALOR DE LA CONSULTA ES DE $ 23.000 ABONANDO EN EFECTIVO O $ 25.000 SI PAGA POR TRANSFERENCIA"}
+{"input": "Si quiero el turno Gabriela elizabeth castro Hola buen día Cuando estás la endroquinologa Me daría un turno y en qué horario gracias", "output": "Hola buenas tardes"}
+{"input": "Bueno quiero un turno", "output": "Le pido nombre/apellido y edad por favor"}
+{"input": "Gabriela elizabeth castro 36 años", "output": "Perfecto quedo agendadapara *Endocrinologia* el dia jueves 24/4 a las 18.00hs"}
+{"input": "Ya te transfiero gracias", "output": "A usted"}
+{"input": "‎IMG-20250411-WA0015.jpg (archivo adjunto)", "output": "Muchas gracias, ya registramos el pago de su reserva"}
+{"input": "Gracias a usted que tenga un buen día", "output": "Igualmente"}
+{"input": "Hola buenos días Si mañana estoy hay Gracias", "output": "GRACIAS POR CONFIRMAR. QUE TENGA UNA LINDA TARDE"}
+{"input": "Igualmente 😘", "output": "‎IMG-20250425-WA0036.jpg (archivo adjunto)"}
+{"input": "Hola buen día Le canselo el turno lo tengo enfermo a mi nene", "output": "Gracias por avisar"}
+{"input": "Muchas gracias Que tenga un buen día", "output": "‎IMG-20250503-WA0007.jpg (archivo adjunto)"}
+{"input": "Se eliminó este mensaje.", "output": "Hola buenas tardes"}
+{"input": "Hola buenas tardes Quería sacar turno para la endroquinologa Le tengo que llevar los estudios que me mandó hacer", "output": "Hola buenas tardes"}
+{"input": "Para agosto? Es mucho para agosto", "output": "perdon 29/05"}
+{"input": "Bueno si quiero el turno", "output": "Necesitariamos nombre apellido y edad por favor"}
+{"input": "Gabriela elizabeth Castro", "output": "Perfecto ya esta agendada para el dia jueves 29/05 a las 18:15 hs con la medica Endocrinologa"}
+{"input": "‎IMG-20250521-WA0023.jpg (archivo adjunto)", "output": "Muchas Gracias"}
+{"input": "Bueno dale gracias", "output": "Buenas Tardes."}
+{"input": "Hola si mañana estoy hay Gracias", "output": "‎STK-20250527-WA0023.webp (archivo adjunto)"}
+{"input": "Hola cómo estás Cuánto está la endroquinologa ????", "output": "Hola buenos días"}
+{"input": "Bueno dale ah qué hora?", "output": "Tenemos turno disponible a las 18:30 hs"}
+{"input": "Dale si Hola Consulta tenés pediatra hoy?", "output": "PARA HOY A LAS 16:20 HS. SI TOMA EL TURNO LE PIDO POR FAVOR EL NOMBRE, APELLIDO Y LA EDAD DEL PACIENTE"}
+{"input": "Cuánto sale por qué tengo 3 niños", "output": "CADA CONSULTA TIENE UN VALOR DE $ 25.000 ABONANDO EN EFECTIVO O $ 27.000 SI PAGA POR TRANSFERENCIA"}
+{"input": "<Multimedia omitido>", "output": "Hola buenas tardes"}
+{"input": "Ok y que precio", "output": "ECOGRAFIAS"}
+{"input": "Hola buenas tardes quería saber el viernes apartir de que horario hacen las ecografías", "output": "Hola buenas tardes"}
+{"input": "Translucencia Nucal Yo pregunté me avían dicho por la tarde <Multimedia omitido>", "output": "sino le podemos ofrecer para el dia miercoles 26/03 por la tarde a las 18:00 hs"}
+{"input": "No no... Quiero para el viernes por la mañana", "output": "perfecto necesitaria nombre apellido y edad por favor"}
+{"input": "Cintia Vargas", "output": "Perfecto ya esta agendada para el dia viernes 21/03 a las 10:20 hs para eco Trans Nucal <Se editó este mensaje.>"}
+{"input": "Hola buenas tardes podrían cambiarme el turno para el miércoles 26", "output": "Hola buenas tardes"}
+{"input": "Cintia Vargas", "output": "perfecto ya esta agendada para el dia miercoles 25/03 a las 18:00 hs"}
+{"input": "Ok perfecto gracias sería miércoles 26", "output": "BUENOS DIAS. LE RECORDAMOS QUE MAÑANA TIENE TURNO PARA ECOGRAFIA A LAS 18:50 HS. POR FAVOR CONFIRMAR ASISTENCIA"}
+{"input": "Me avían dicho alas 18 ..", "output": "BUENAS TARDES. EL DOCTOR MAÑANA LLEGAR UN POQUITO MAS TARDE Y POR ESO SE CORRIERON UNO MINUTOS LOS TURNOS"}
+{"input": "Podrías pasarme el alias así te paso la reserva del turno..", "output": "Transferencia:"}
+{"input": "‎Comprobante de transferencia-2.pdf (archivo adjunto)", "output": "Muchas gracias , ya registramos el pago de su reserva"}
+{"input": "Hola buenas a este alias le pasó el resto de la ecografía...", "output": "Transferencia:"}
+{"input": "<Multimedia omitido>", "output": "Muchas Gracias"}
+{"input": "Hola buenas tardes quería saber si me pasan la ecografía por wsp o tengo que ir personalmente Y otra consulta Yo ayer pregunté por un presupuesto de laboratorio", "output": "‎IMG-20250327-WA0011.jpg (archivo adjunto)"}
+{"input": "Ah bueno ok", "output": "en un ratito las entan enviando me informaron"}
+{"input": "Bueno El informe me lo pasan por acá o tengo que ir personalmente? Disculpa", "output": "Hola buenos dias"}
+{"input": "Hola buenos días Muchas gracias", "output": "Gracias a vos por la espera!"}
+{"input": "Hola buenos días disculpen por casualidad usted no me podría pasar el PDF del informe de la ecografía yo me la hice el 26... Me robaron el  celular y perdí todo", "output": "‎VARGAS CINTIA.pdf (archivo adjunto)"}
+{"input": "Muchas gracias 🫂", "output": "BUEN DIA. LE PASAMOS EL RESULTADO DE SU ESTUDIO"}
+{"input": "Hola laboratorio que días? Y cuánto tardan los resultados gracias", "output": "Hola buenas tardes"}
+{"input": "‎IMG-20250507-WA0018.jpg (archivo adjunto) Quería saber el precio y cuanto tarda los resultados...", "output": "BUENAS TARDES. LO PASO A PRESUPUESTAR A LABORATORIO Y EN UN RATITO NOS VOLVEMOS A COMUNICAR CON USTED"}
+{"input": "Hola buen día quería saber el valor de fondo de ojos gracias...", "output": "Hola buenos dias"}
+{"input": "Hola buenas!!! Quería saber cuánto sale la consulta con la obstetra... Gracias ??", "output": "BUENAS TARDES."}
+{"input": "Que días atiende", "output": "Ginecologia y Obtetricia"}
+{"input": "Hola, buen día Mi mamá se realizó unos estudios el dia 26 de diciembre para una eco doppler Elsa Beatriz Pogonza Podrías reenviarme las ecografías por favor Perdimos el chat", "output": "Buenos días"}
+{"input": "Por favor Mi mamá esta ahora con una diabetologa Y le está pidiendo eso Fue el 26 de diciembre", "output": "‎IMAGENES DOPPLER ARTERIO VENOSO DE MIEMBROS INFERIORES POGONZA ELSA BEATRIZ.pdf (archivo adjunto)"}
+{"input": "Muchísimas gracias, muy amable! Que tengas buen día🥰 Hola Turnos para el odontólogo hay? Lo más antes posible Por favor!", "output": "Hola buenas tardes"}
+{"input": "Hola! Para sacar turno con el otorrinolaringólogo?", "output": "BUENAS TARDES. PARA EL MEDICO OTORRINO LE PUEDO OFRECER PARA EL JUEVES 20/3 A LAS 17:10 HS. SI TOMA EL TURNO LE PIDO POR FAVOR EL NOMBRE, APELLIDO Y LA EDAD DEL PACIENTE"}
+{"input": "Si Laura Emilse Castillo 21 años", "output": "SU TURNO CON MEDICO OTORRINO HA SIDO AGENDADO PARA EL JUEVES 20 DE MRZO A LAS 17:10 HS"}
+{"input": "<Multimedia omitido>", "output": "BUENM DIA. MUCHAS GRACIAS. QUE TENGA UNA LINDA TARDE"}
+{"input": "Buenas! Confirmo. Buenas, psicólogo hay?", "output": "BUENAS TARDES. TENEMOS PSICOLOGIA LOS DIAS MARTES Y JUEVES POR LA TARDE Y SABADOS POR LA MAÑANA. ES CON TURNO."}
+{"input": "Puede ser para el sábado?", "output": "EL VALOR DE LA CONSULTA ES DE $ 25.000 ABONANDO EN EFECTIVO O $ 27.000 SI PAGA POR TRANSFERENCIA"}
+{"input": "En efectivo", "output": "LE PUEDO OFRECER PARA SABADO 10 DE MAYO A LAS 11 HS. SI TOMA EL TURNO LE PIDO POR FAVOR EL NOMBRE, APELLIDO Y LA EDAD DEL PACIENTE"}
+{"input": "Y el próximo martes?", "output": "Si le puedo ofrecer a las 17:30hs"}
+{"input": "Buen día! Dermatólogo hay?", "output": "BUENAS TARDES. PARA DERMATOLOGIA ESTAMOS DANDO TURNO PARA EL PROXIMO MARTES POR LA TARDE"}
+{"input": "Okey, en q horario hay?", "output": "LE PUEDO OFRECERT MARTES 27/5 A LAS 15:30 HS. SI TOMA EL TURNO LE PIDO POR FAVOR EL NOMBRE, APELLIDO Y LA EDAD DEL PACIENTE"}
+{"input": "Elsa Beatriz Pogonza", "output": "SU TURNO HA SIDO AGENDADO PARA EL DIA 27/5 A LAS 15:30 HS"}
+{"input": "‎IMG-20250523-WA0006.jpg (archivo adjunto) Buen día! Para el dermatólogo", "output": "MUCHAS GRACIAS"}
+{"input": "Buen día, oftalmólogo hay?", "output": "BUENOS DIAS PARA OFTALMOLOGIA ESTAMOS DANDO TURNO PARA EL JUEVES 19/6 POR LA MAÑANA"}
+{"input": "Buen día No podrían hacer una excepción para hoy, por favor Me salió un grano en el ojo, me recetaron unas gotas y ahora está peor. Dijieron que era un orzuelo☹️ 🙏🏼 Espero a el último turno, si tiene unos minutos libres Tengo q presentar certificado en el trabajo, no puedo abrir del todo el ojo y eso dificulta q vaya a trabajar. Me piden si o si q justifique estos días.", "output": "BUENOS DIAS. LA PROFESIONAL NO VIENE A ATENDER TODOS LOS JUEVES AL CONSULTORIO. DEL MES DE JUNIO VA A ESTAR ATENDIENDO EL 19 Y 26 DE JUNIO <Se editó este mensaje.>"}
+{"input": "Gracias! Hola, hay turno para el diabetologo?", "output": "Hola buenas tardes"}
+{"input": "Si, está bien", "output": "le pedimos nombre/apellido y edad por favor"}
+{"input": "Elsa Beatriz Pogonza", "output": "Perfecto quedo agendada para *Diabetologia* el dia sabado 14/6 a las *10:00*"}
+{"input": "Buen día Hay para más tarde?", "output": "BUENAS TARDES. POR EL MOMENTO NO. NOS PODRIA CONFIRMAR POR FAVOR SI ASISTE AL TIURNO DE  MAÑANA A LAS 10 HS"}
+{"input": "No, para el próximo turno", "output": "Gracias por avisarnos"}
+{"input": "Buenas, hay turnos disponibles para el diabetologo en la semana?", "output": "BUENAS TARDES. EL PROXIMO SABADO EL DOCTOR NO VA A ATENDER PODRIA DARLE TURNO PARA DENTRO DE 15DIAS"}
+{"input": "Buen día Está bien, para q día sería?", "output": "BUEN DIA LE PUEDO OFRECER PARA EL DIA SABADO 28/6 A LAS 9:20 HS. SI TOMA EL TURNO LE PIDO POR FAVOR EL NOMBRE, APELLIDO Y LA EDAD DE3L PACIENTE"}
+{"input": "Elsa Beatriz Pogonza", "output": "SU TURNO FUE AGENDADO PARA EL SABADO 28/6 A LAS 9:20 CON DIABETOLOGIA <Se editó este mensaje.>"}
+{"input": "Buenos Días , quería saber si podría sacar turno para dermatologia? Que días, y precio por favor. Saludos Fonoaudiologia tba hay para niños me pasas el precio y días x favor. Saludos", "output": "BUENOS DIAS."}
+{"input": "Que días atiende la dermatologa?", "output": "PARA DERMATOLOGIA LE PUEDO OFRECER TURNO PARA EL DIA MARTES 17 DE JUNIO A LAS 13:30 HS. SI TOMA EL TURNO LE PIDO POR FAVOR EL NOMBRE, APELIDO Y LA EDAD DEL PACIENTE"}
+{"input": "Más tarde tipo 14 o 15", "output": "FONOAUDIOLOGIA TENEMOS LOS DIAS LUNES Y JUEVES POR LA TARDE Y LOS DIAS JUEVES Y VIERNES POR LA MAÑANA. EL VALOR DE LA CONSULTA ES DE $ 27.000 ABONANDO EN EFECTIVO O $ 29.000 SI PAGA POR TRANSFERENCIA. ES CON TURNO"}
+{"input": "Reservo turno para dermatologia Moyano Bianca  12 años Pero para las 14 de las tarde no llega a las 13:30 xq sale del cole a las 13 ye s en pilar", "output": "LA AGENDAMOS PARA EL MARTES 17/6 A LAS 14 HS CON DERMATOLOGIA <Se editó este mensaje.>"}
+{"input": "Dale yo voy estar pasando para reserva con la seña Buenos Días me pasarías el alias para poder transferir la reserva Para el turno de Moyano Bianca para dermatologia", "output": "Hola buenos dias"}
+{"input": "‎IMG-20250613-WA0003.jpg (archivo adjunto)", "output": "‎STK-20250527-WA0023.webp (archivo adjunto)"}
+{"input": "Confirmo asistencia Buenos Dias Quería saber si puedo cambiar el horario del turno de hoy de Bianca Moyano  si puede ser a las 15 xq  no le dieron permiso para retirarse antes y a esa hora si puede . Sino cambiar para otro día, te pido mil disculpas x la molestia. Saludos cordiales", "output": "BUEN DIA. DE FAVOR PODRIA PONERLA 14:45 HS."}
+{"input": "Es que sale a las 14:15  y es en Pilar Puedo intentar llegar X ahí estoy menos 10 Bajo del colectivo y directo voy para ahi", "output": "BUENO LA PONEMOS 14:45"}
+{"input": "‎PTT-20250317-WA0029.opus (archivo adjunto)", "output": "Hola buenas tardes"}
+{"input": "‎PTT-20250317-WA0031.opus (archivo adjunto) ‎PTT-20250317-WA0032.opus (archivo adjunto) Para fonodiologa", "output": "Psicologia jueves 20/03 a las 17:30 hs"}
+{"input": "Bueno No tienes más tarde Mi nena Sele del colegio 16:45 por eso te pido un poco más tarde Si venimos ‎PTT-20250317-WA0038.opus (archivo adjunto) ‎PTT-20250317-WA0039.opus (archivo adjunto)", "output": "por esta semana seria en ese horario. cuando asista vemos algun horario por la mañana"}
+{"input": "‎PTT-20250317-WA0041.opus (archivo adjunto)", "output": "Le informo,  que hay un sistema de reserva de turno de $5000. Que se puede realizar  en efectivo en los consultorios o por transferencia( se toma en cuenta como efectivo, si el resto de la consulta se abona en efectivo). Este monto se descontará  de la consulta cuando asista a la misma."}
+{"input": "‎PTT-20250319-WA0019.opus (archivo adjunto) null", "output": "si, disculpe es a las 17:30 hs"}
+{"input": "<Multimedia omitido>", "output": "Muchas Gracias"}
+{"input": "Ay estoy yendo", "output": "gracias por avisar"}
+{"input": "Si Voy", "output": "Muchas Gracias. Buenas tardes"}
+{"input": "‎PTT-20250326-WA0011.opus (archivo adjunto)", "output": "SE LO PASO PARA EL JUEVES 3/4 A LAS 10:30 HS"}
+{"input": "Sicóloga si voy Bueno", "output": "GRACIAS. QUE TENGA UNA LINDA TARDE"}
+{"input": "Estamos viniendo", "output": "Gracias"}
+{"input": "‎PTT-20250331-WA0019.opus (archivo adjunto)", "output": "PERFECTO. CUANDO ASISTA TRAIGA POR FAVOR EL PAPELITO DEL TURNO"}
+{"input": "Fonodiologa abone ‎PTT-20250331-WA0034.opus (archivo adjunto)", "output": "Perfecto gracias"}
+{"input": "‎IMG-20250401-WA0005.jpg (archivo adjunto)", "output": "Muchas Gracias"}
+{"input": "Si voy", "output": "Gracias por confirmar"}
+{"input": "Estamos viniendo A psicología Hola Hoy tenía pediatra no llego estoy en pilar Será puede darme para otro día null", "output": "BUENOS DIAS. LE RECORDAMOS QUE MAÑANA TIENE TURNO CON FONOAUDIOLOGIA. LE QUERIA CONSULTAR SI MAÑANA PUEDE ASISTIR A LAS 10:30 HS. DADO QUE HAY MUCHOS AUSENTIMOS EN LA AGENDA DE MAÑANA. POR FAVOR CONFIRMAR"}
+{"input": "‎PTT-20250409-WA0012.opus (archivo adjunto) ‎PTT-20250409-WA0013.opus (archivo adjunto) ‎IMG-20250409-WA0014.jpg (archivo adjunto)", "output": "La Fono va a llegar a las 10:30 hs en el dia de mañana. Disculpe sabemos que tenia 9:30 hs."}
+{"input": "‎PTT-20250409-WA0020.opus (archivo adjunto)", "output": "Muchisimas gracias. Y disculpe la molestia."}
+{"input": "Estamos viniendo a psicología", "output": "Gracias"}
+{"input": "Si voy", "output": "Gracias por confirmar"}
+{"input": "‎PTT-20250412-WA0014.opus (archivo adjunto)", "output": "Buenos días."}
+{"input": "Si voy hir", "output": "GRACIAS POR CONFIRMAR. QUE TENGA UNA LINDA TARDE"}
+{"input": "‎PTT-20250423-WA0021.opus (archivo adjunto) ‎IMG-20250423-WA0022.jpg (archivo adjunto) Fonodiologa ‎PTT-20250423-WA0023.opus (archivo adjunto)", "output": "Muchas gracias ya registramos el pago de su reserva"}
+{"input": "Si voy Ir Hoy voy ir", "output": "MUCHAS GRACIAS"}
+{"input": "Si Voy null Tiene turno para dermatólogo Para mañana Me avisas", "output": "Hola buen dia"}
+{"input": "Bueno anótame Torrez roscio", "output": "ya la anotamos"}
+{"input": "‎IMG-20250428-WA0025.jpg (archivo adjunto)", "output": "Muchas gracias ya registramos las reservas"}
+{"input": "Si Voy", "output": "MUCHAS GRACIAS"}
+{"input": "Si voy ir El primer estudio que nos pidió la neuróloga", "output": "Eliminaste este mensaje."}
+{"input": "Si", "output": "ENTONCES TENDRIA QUE VENIR A LAS 10:30 HS, YA QUE TIENE QUE ESTAR  MAS TIEMPO"}
+{"input": "Bueno", "output": "Muchas Gracias La esperamos"}
+{"input": "Bueno ‎IMG-20250506-WA0064.jpg (archivo adjunto)", "output": "Muchas Gracias"}
+{"input": "Si vamos ir Y hay te paso la recerba No puedo abrir", "output": "MAÑANA SE LO IMPRIMIMOS"}
+{"input": "Bueno", "output": "MUCHAS GRACIAS"}
+{"input": "Estamos viniendo", "output": "Hola buenas tardes"}
+{"input": "Si voy ir", "output": "MUCHAS GRACIAS POR CONFIRMAR. AGUARDAMOS EL PAGO DE LA RESERVA"}
+{"input": "‎PTT-20250527-WA0038.opus (archivo adjunto) ‎PTT-20250527-WA0039.opus (archivo adjunto)", "output": "‎PTT-20250527-WA0040.opus (archivo adjunto)"}
+{"input": "‎PTT-20250527-WA0049.opus (archivo adjunto)", "output": "Hola buenos dias"}
+{"input": "‎PTT-20250528-WA0047.opus (archivo adjunto)", "output": "Buenos Dias."}
+{"input": "‎PTT-20250602-WA0012.opus (archivo adjunto)", "output": "Perfecto lo cancelamos"}
+{"input": "Si voy ir", "output": "‎STK-20250527-WA0023.webp (archivo adjunto)"}
+{"input": "Si voy ir Hola Buenas tardes Me re olvide De fonodiologa", "output": "Hola buenas tardes"}
+{"input": "‎PTT-20250617-WA0000.opus (archivo adjunto) ‎IMG-20250617-WA0001.jpg (archivo adjunto) ‎IMG-20250617-WA0002.jpg (archivo adjunto) Vladimir Torrez Roscio torrez", "output": "‎STK-20250527-WA0023.webp (archivo adjunto)"}
+{"input": "Buen día quisiera saber si tienen ginecologia", "output": "Hola buenos dias"}
+{"input": "Q vale la consulta", "output": "La consulta sale $25000 en efectivo y $27000 por transferencia."}
+{"input": "Perfecto Para el próximo miércoles puede ser? Para la ginecóloga", "output": "Si, necesitaria nombre apellido y edad por favor"}
+{"input": "Solange trindades", "output": "Perfecto ya esta agendada para el dia miercoles 18/06 a las 11:30 hs con la Medica Ginecologa"}
+{"input": "‎IMG-20250613-WA0004.jpg (archivo adjunto)", "output": "‎STK-20250527-WA0023.webp (archivo adjunto)"}
+{"input": "Hola buen dia Quería saber si ya puedo dejarle pagado el total de la consulta Q me.faltaban 20", "output": "BUEN DIA. SI PUEDE ABONARLA"}
+{"input": "Me pasa el alias", "output": "Transferencia:"}
+{"input": "‎IMG-20250614-WA0002.jpg (archivo adjunto)", "output": "‎STK-20250527-WA0023.webp (archivo adjunto)"}
+{"input": "Hola buen dia Quería saber si es posible cambiar el turno d 11y 30 para las 12 o 12 y 30 por favor", "output": "BUEN DIA. LE PUEDO OFRECERPARA ESTE MIERCOLES A LAS 12 HS. DIGAME POR  FAVOR SI LE CAMBIAMOS EL HORARIO"}
+{"input": "Si alas 12 esta bien", "output": "LISTO LA ESPERAMOS MAÑANA A LAS 2 HS"}
+{"input": "Hola que tal Queria saber cuanto sale las sesiones con la psicopedagoga??", "output": "Hola buenas tardes"}
+{"input": "Hola Cuando tiene turno disponible ?? Para El psicopedagoga", "output": "Hola buenas tardes"}
+{"input": "Genial Pago en efectivo Ahora no me hago tiempo de ir para pagar la seña", "output": "me diria el nombre apellido y edad por favor"}
+{"input": "Valentino Canosa 7 años", "output": "Perfecto ya esta agendado para mañana a las 10.30 hs con la Psicopedagoga"}
+{"input": "Dale genial muchas gracias y buenas noches ‎IMG-20250402-WA0000.jpg (archivo adjunto) Hola buen día, la seña para el psicopedagogo", "output": "Muchas gracias ya registramos el pago de su reserva."}
+{"input": "Perfecto Hola buenas tardes Me pasaría la dirección del consultorio ??", "output": "HIPOLITO IRIGOYEN 1404. VILLA ROSA. FRENTE A LA ESTCION DE TREN"}
+{"input": "Ya estoy yebd Yendo Hola que tal buenas noches Cuando hay turno disponible para la psicopedagoga ? Por temas económicos hoy no pudo asistir mi hijastro al turno", "output": "Hola buenas dias <Se editó este mensaje.>"}
+{"input": "Hola buen dia, el se atiende los miércoles a las 15:30 No me acuerdo como se llama", "output": "tenemos disponible para el dia miércoles a las 18:00 hs"}
+{"input": "El próximo miércoles ? No puede a esa hora por que tiene entrenamiento de taekwondo", "output": "EN QUE HORARIO PODRIA"}
+{"input": "Tiene colegio a la mañana solo podemos a la tarde A la tarde podemos de 13 a 16", "output": "le puedo brindar entonces para el dia martes 30/04 a las 16:00 hs"}
+{"input": "Genial Sería con la misma psicopedagogo", "output": "si si seria con la misma psicopedagoga Evelin se llama"}
+{"input": "Dale genial muchas gracias", "output": "perfecto ya esta agendado para el dia martes 30/04 a las 16:00 hs con la psicopedagoga"}
+{"input": "Hola discúlpame El martes es 29 El lunes paso x el consultorio Nos quedan dos sesiones con la psicopedagoga Que son las últimas", "output": "perdon miercoles 30 seria el dia del turno"}
+{"input": "Hola Tenes un turno disponible para esta semana ?? Para psicopedagogo Me gustaría que termine las sesiones este mes así ya en abril empieza con la psicóloga de nuevo", "output": "Hola buenas tardes"}
+{"input": "Perfectob Ya te pago la seña ‎IMG-20250423-WA0035.jpg (archivo adjunto)", "output": "BUENOS DIAS. PARA PSICOPEDAGOGA LE PUEDO OFRECER PARA ESTE SABADO A LAS 9:30 HS. SI TOMA EL TURNO LE PIDO POR FAVOR EL NOMBRE, APELLIDO Y LA EDAD DEL PACIENTE"}
+{"input": "Valentino Canosa, 7 años Buen día", "output": "SU TURNO PARA PSICOPEDAGOGIA HA QUEDADO AGENDADO PARA EL SABADO 26/4 A LAS 9:30 HS"}
+{"input": "Gracias !", "output": "A USTED. QUE TENGA UN BUEN DIA"}
+{"input": "Igualmente", "output": "Buenos días."}
+{"input": "Ya le pague la seña", "output": "Muchas Gracias. Que tenga lindo día"}
+{"input": "Igualmente", "output": "‎IMG-20250425-WA0036.jpg (archivo adjunto)"}
+{"input": "Todo los meses aumentan ??", "output": "‎IMG-20250425-WA0036.jpg (archivo adjunto)"}
+{"input": "Hola que tal Cuando tienen turnos disponibles para la psicopedagoga Evelin?", "output": "Hola buenos dias"}
+{"input": "El miércoles por la tarde Por favor Buen día !", "output": "A las 16:00"}
+{"input": "Genial", "output": "Le pido nombre/apellido y edad por favor"}
+{"input": "El turno es con Evelin? Valentino Canosa 7 años", "output": "Perfecto quedo agendado para *Psicopedagogia* el dia iercoles 30/4 a las 16:00hs"}
+{"input": "....", "output": "Si es con evelyn"}
+{"input": "‎IMG-20250429-WA0014.jpg (archivo adjunto)", "output": "MUCHAS GRACIAS. QUE TENGA UNA LINDA TARDE"}
+{"input": "‎IMG-20250430-WA0038.jpg (archivo adjunto)", "output": "‎IMG-20250503-WA0007.jpg (archivo adjunto)"}
+{"input": "‎IMG-20250503-WA0022.jpg (archivo adjunto) ‎IMG-20250503-WA0023.jpg (archivo adjunto) Hola ‎IMG-20250503-WA0033.jpg (archivo adjunto) No es la primera vez q hackea cuentas", "output": "Hola buenos tardes"}
+{"input": "De nada", "output": "Eliminaste este mensaje."}
+{"input": "Por que ya finalizamos la4 consultas El miércoles tenfo q ir a retirar el informe", "output": "Hola buenas tardes"}
+{"input": "Ahh okey Esta abierto ahoea ? Tengo solo en efectivo", "output": "Si hoy estamos hasta las 17:30 hs"}
+{"input": "Para cuando tienen turno disponible ? Sería para este miércoles ?", "output": "Seria para este miércoles 7 de mayo a las 16:00 hs"}
+{"input": "Dale perfecto gracias Ya le pago mi marido ?", "output": "Si si, muchas Gracias"}
+{"input": "Confirmo", "output": "MUCHAS GRACIAS. QUE TENGA UNA LINDA TARDE"}
+{"input": "Hola Buenas tardes", "output": "disculpe la molestia, necesitariamos el numero de DNI, de Valentino para el informe y la fecha de nacimiento"}
+{"input": "D.N.I 56.268.768", "output": "Muchas Gracias."}
+{"input": "Hola de nuevo Te hago una consulta Hace unos meses mi nene estaba yendo con Ceci Ella me hizo un informe psicológico y me olvide de ir a buscarlo Quería saber si todavia lo tenían", "output": "Me diria nombre y apellido?"}
+{"input": "Valentino Canosa Cecilia Godoy Psicóloga", "output": "ya me fijo"}
+{"input": "Ok le podría preguntar o consultar.. Él va a seguir atendiendose con la psicopedagoga y la psicóloga, los informes los necesito para la neurologa q también es de su consultorio", "output": "si, estuvieron hablando con la Psicopedagoga y cordinaron en que si puede empezar una vez por semana con cada una"}
+{"input": "Hola Consulta Tienen oculista?? Para mi hijo tiene 8 años", "output": "BUENOS DIAS. SI. ESTAMOS DANDO TURNO PARA EL JUEVES 19/6 POR LA MAÑANA"}
+{"input": "Necesitaria q lo vean hoy Se metió una Lentejuela en el ojo y le duele mucho", "output": "HOY ES IMPOSIBLE, LA PROFESIONAL NO ESTA EN EL CONSULTORIO"}
+{"input": "Ok Hola Que horario tiene disponible para el oftalmologo?", "output": "BUENOS DIAS. ESTAMOS DANDO TURNO PARA EL JUEVES 19 DE JUNIO Y LE PODEMOS IOFRECER EL HORARIO DE 10:45 HS. SI TOMA EL TURNO LE PIDO POR FAVOR EL NOMBRE, APELLIDO Y LA EDAD DEL PACIENTE"}
+{"input": "Hola buenas noches Quería consultar si los días lunes dan turno para psicopedagogo y psicóloga Con Eve y Ceci?", "output": "Hola buenos dias"}
+{"input": "Y los sábados con Ceci?", "output": "el dia sabado a las 11:00 hs"}
+{"input": "Buen día tienen odontología de adulto", "output": "BUEN DIA. NO TENEMOS ODONTOLOGIA"}
+{"input": "Gracias", "output": "‎IMG-20250503-WA0007.jpg (archivo adjunto)"}
+{"input": "Hola info", "output": "BUENAS TARDES. LA MEDICA ATIENDE MAÑANA POR LA TARDE Y EL VALOR DE LA CONSULTA ES DE $ 25.000 ABONANDO EN EFECTIVO O $ 27.000 DI PGA POR TRANSFERENCIA. ES  CON TURNO"}
+{"input": "Atiende niños de 6 años", "output": "SI"}
+{"input": "En que horario", "output": "LE PUEDO OFRECER A LAS 13:45 HS. SI TOMA EL TURNO LE PIDO POR FAVOR EL NOMBRE, APELLIDO Y LA EDAD DEL PACIENTE"}
+{"input": "Ambar isabel conil  6 años", "output": "SU TURNO HA SIDO AGENDADO"}
+{"input": "Grcaias Pago en efectivo Ahora le tranfiero", "output": "LE PEDIMOS TAL COMO DICE EL TEXTO QUE LE ENVIAMOS QUE REALIZE EL PAGO DE LA RESERVA ANTES DEL TURNO POR FAVOR"}
+{"input": "‎IMG-20250616-WA0009.jpg (archivo adjunto)", "output": "‎STK-20250527-WA0023.webp (archivo adjunto)"}
+{"input": "Hola buen día si te confirmo gracias", "output": "Hola buenos dias"}
+{"input": "Hola buen día !!! Quería consultar si siguen haciendo el apto fisico que días,y costo. Gracias", "output": "BUENOS DIAS. LE PASO LA INFORMACION DE LOS APTOS"}
+{"input": "Hola si necesito con electro Pero que día tenés porque me pusiste se realizaron el día por la mañana Pero no que día específico para ver cómo hacer por el trabajo", "output": "CON CARDIOLOGIA ESTAMOS DANDO TURNO PARA EL DIA MIERCOLES 16/4 Y LE PUEDO OFRECER EL HORARIO DE LAS 13 HS. SI TOMA EL TURNO LE PIDO POR FAVOR EL NOMBRE, APELLIDO Y LA EDAD DEL PACIENTE"}
+{"input": "Hola buen día te quería consultar si tienen dermatóloga que días viene y cuánto sale la consulta", "output": "BUENOS DIAS. PARA DERMATOLOGIS ESTAMOS DANDO TURNOS PARA EL DIA JUEVES 17 DE ABRIL POR LA MAÑANA . EL VALOR DE LA CONSULTA ES DE $ 23.000 ABONANDO EN EFECTIVO O $ 25.000 SI PAGA POR TRANSFERENCIA"}
+{"input": "Dale te confirmo porque me mandó el clínico que vea una Pero lo mates posible te confirmo a la tarde sino consigo gracias", "output": "NO HAY PROBLEMA. QUE TENGA UNA LINDA TARDE"}
+{"input": "Dale Marce gracias besos siempre tan amable", "output": "De nada. Nos vemos"}
+{"input": "Hola buen día mira estaba por pasar por el consultorio para cancelar el turno para la próxima semana no voy a poder asistir este miércoles haber si me lo podés pasar para el siguiente miércoles ?", "output": "LE REPROGRAMO EL TURNO PARA EL DIA PARA EL NIERCOLES 30 DE ABRIL A LAS 16:30 HS."}
+{"input": "Se eliminó este mensaje.", "output": "‎IMG-20250425-WA0036.jpg (archivo adjunto)"}
+{"input": "Hola buenas tardes hoy iba a pasar por la tarde el tema es que el sale 17/15 del colegio y cuando hable con Marcela ella me había puesto los días miércoles 17/30hs y ba a ser un miércoles por medio y ahora que me envían me pusieron miércoles 16/30 y el pierde materia en el Cole si bien el año pasod lo hacía pero ahora esta en cuarto y la verdad no está para perder las horas por eso me iba a acercar hoy haber que otro dia podia ser y que horarios hoy paso a la tarde y ya dejo la seña en caso de tener disponible y el turno que tengo mañana con la dermatóloga me tiene que confirmar mi compañera si puede entrar antes yo trabajo hasta las 4 Pero ella tenía que confirmar una reunión así que hoy me confirma si mañana puede entrar antes si te parece voy a la tarde y ya confirmo todo o cancelo te parece ???", "output": "Si no hay problema la esperamos a la tarde."}
+{"input": "Hola buenas tardes ayer a la tarde estuve ahí y pague la consulta los $27000 mil por mercado ahí te paso comprobante ‎Comprobante_109785154086.pdf (archivo adjunto) Te adjunte comprobante.", "output": "Muchas Gracias"}
+{"input": "Hola Marce no voy a llegar al turno con la dermatóloga mi compañera no llego todavía y me avisa que va a llegar casi y 20 hasta que le pasó la caja y todo no llego Gracias igual", "output": "Hola Graciela"}
+{"input": "No voy a llegar todavía ni llego ella no cancelame disculpa", "output": "‎IMG-20250503-WA0007.jpg (archivo adjunto)"}
+{"input": "Hola buen día a la tarde paso y te dejo pago la consulta. Gracias", "output": "Dale no hay problema. Saludos"}
+{"input": "Hola buenos días ya confirme la asistencia pague el total de la consulta ayer. Gracias", "output": "GRACIAS. QUE TENGA UNA LINDA TARDE"}
+{"input": "Hola dale te paso ‎IMG-20250512-WA0020.jpg (archivo adjunto)", "output": "muchas gracias ya lo registramos"}
+{"input": "Si confirmo", "output": "Eliminaste este mensaje."}
+{"input": "‎IMG-20250519-WA0003.jpg (archivo adjunto)", "output": "Hola buenos dias"}
+{"input": "Buenas tardes si confirmo asistencia", "output": "MUCHAS GRACIAS. QUE TENGA UNA LINDA TARDE"}
+{"input": "‎IMG-20250526-WA0002.jpg (archivo adjunto)", "output": "Hola buenos dias"}
+{"input": "Hola si te confirmo gracias", "output": "Muchas Gracias. Que tenga un buen dia"}
+{"input": "Hola si como estás dale ahí te paso la seña ‎IMG-20250602-WA0006.jpg (archivo adjunto)", "output": "No hay problema muchas gracias."}
+{"input": "Hola cómo estás si hoy cuando vaya con isi para ver a mica ya te pago dale ‎IMG-20250603-WA0024.jpg (archivo adjunto) Hola buenas tardes !!!!! Te consulto está Marcela ?", "output": "Hola buenas tardes"}
+{"input": "Perfecto y el de la caca Osea lo hacemos el viernes que viene", "output": "‎LABOS_Recolección_De_Orina_24_Hs_[1].pdf (archivo adjunto)"}
+{"input": "‎IMG-20250617-WA0003.jpg (archivo adjunto)", "output": "‎STK-20250527-WA0023.webp (archivo adjunto)"}
+{"input": "Hola buenas tardes te hago una consulta", "output": "BUENAS TARDES, ESTA 20 MIL EN EFECTIVO O 22 POR TRASFERENCIA, VIENE EL 19/03 A LAS 18 HORAS EL DR"}
+{"input": "Hola buenas tardes", "output": "BUENAS TARDES LA REALIZAMOS LOS DIAS MIERCOLES POR LA TARDE Y VIERNES POR LA TARDE. ES CON TURNO Y EL VALOR DE LA ECOGRAFIA EBN DE $ 25.000 ABONANDO EN EFECTIVO O $ 27.0000 SI PAGA POR TRANSFERENCIA"}
+{"input": "Hola buenos dias!", "output": "Hola buenos dias"}
+{"input": "Una consulta tienen neurólogo infantil??", "output": "Si tenemos"}
+{"input": "Cuanto sale la consulta???", "output": "Las consultas abonadas en efectivo son de  $ 25.000  y por transferencia $ 27.000"}
+{"input": "Quiero un turno porfa!", "output": "Si le pido nombre/apellido y edad por favor"}
+{"input": "Benicio giovanni danchez pogonza Perdón es sanchez Q horario??", "output": "Perfecto quedo agendada para *Neurologia* el dia sabado 3/5 a las 10:30hs"}
+{"input": "Dale ahoraa transfiero", "output": "Gracias"}
+{"input": "‎IMG-20250426-WA0011.jpg (archivo adjunto)", "output": "Muchas gracias ya registramos el pago de su reserva"}
+{"input": "Hola! Q precio tienen las sesiones con la psicopedagoga???", "output": "Hola buenas tardes"}
+{"input": "Hola buen dia Mi alias belucha.03 Pogonza jimena belén", "output": "‎IMG-20250502-WA0014.jpg (archivo adjunto)"}
+{"input": "Dale gracias", "output": "‎IMG-20250503-WA0007.jpg (archivo adjunto)"}
+{"input": "Buen dia Queria saber si vuelve a atender la neuróloga infantil???", "output": "Hola buenos dias"}
+{"input": "🥹 Gracias!!!", "output": "No hay de que"}
+{"input": "Hola buen dia El cardiólogo q dia atiende? Y cuando sale la consulta?", "output": "PARA ADULTO O PEDIATRICO"}
+{"input": "Adulto", "output": "Tenemos turno disponible el dia sabado 21/06 por la mañana"}
